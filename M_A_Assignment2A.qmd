@@ -1,0 +1,13 @@
+---
+title: "Assignment_2A"
+format: html
+editor: visual
+---
+
+### Approach
+
+My plan approach is to create a Google forms survey and post it in a discord server with a bunch of my friends and acquaintances. I will take that data and store it in PostgreSQL and load it into my Rstudio as a data frame and find out common metrics such as best performers and lowest performers. My currently plan for handling missing data would be to drop them. After analyzing the best and the worst I will give a brief idea as to why these choose what they did and see if notice any common trends. A good way to track this is add a comments section to the survey.
+
+### Challenges
+
+I may change the survey from movies to another topic that I know my audiences is more involved with, this will either be music, books, or video games. I don't imagine there will be a lot of empty data if I change the subject but in the case there is dropping that data is the best thing I can think to do. I also need extra time to learn how to use postgreSQL and how to link the database to R.
